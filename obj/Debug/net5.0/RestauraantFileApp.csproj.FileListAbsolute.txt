@@ -1,0 +1,16 @@
+C:\Users\Owner\Desktop\RestauraantFileApp\bin\Debug\net5.0\RestauraantFileApp.exe
+C:\Users\Owner\Desktop\RestauraantFileApp\bin\Debug\net5.0\RestauraantFileApp.deps.json
+C:\Users\Owner\Desktop\RestauraantFileApp\bin\Debug\net5.0\RestauraantFileApp.runtimeconfig.json
+C:\Users\Owner\Desktop\RestauraantFileApp\bin\Debug\net5.0\RestauraantFileApp.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\RestauraantFileApp\bin\Debug\net5.0\RestauraantFileApp.dll
+C:\Users\Owner\Desktop\RestauraantFileApp\bin\Debug\net5.0\ref\RestauraantFileApp.dll
+C:\Users\Owner\Desktop\RestauraantFileApp\bin\Debug\net5.0\RestauraantFileApp.pdb
+C:\Users\Owner\Desktop\RestauraantFileApp\obj\Debug\net5.0\RestauraantFileApp.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\RestauraantFileApp\obj\Debug\net5.0\RestauraantFileApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\RestauraantFileApp\obj\Debug\net5.0\RestauraantFileApp.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\RestauraantFileApp\obj\Debug\net5.0\RestauraantFileApp.AssemblyInfo.cs
+C:\Users\Owner\Desktop\RestauraantFileApp\obj\Debug\net5.0\RestauraantFileApp.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\RestauraantFileApp\obj\Debug\net5.0\RestauraantFileApp.dll
+C:\Users\Owner\Desktop\RestauraantFileApp\obj\Debug\net5.0\ref\RestauraantFileApp.dll
+C:\Users\Owner\Desktop\RestauraantFileApp\obj\Debug\net5.0\RestauraantFileApp.pdb
+C:\Users\Owner\Desktop\RestauraantFileApp\obj\Debug\net5.0\RestauraantFileApp.genruntimeconfig.cache

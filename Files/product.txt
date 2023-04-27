@@ -1,0 +1,8 @@
+1	1	Rice with Beef Sauce	650	True	 per Plate	22	9643	False
+2	1	Rice with Fish Sauce	650	True	9188	23	 per Plate	False
+3	1	Rice with Chicken Sauce	800	True	8625	24	 per Plate	False
+4	1	Rice with Snail Sauce	700	True	9523	23	 per Plate	False
+5	1	Spaghetti with Beef Sauce	650	True	6698	24	 per Plate	False
+6	1	Spaghetti with Fish Sauce	650	True	9031	25	 per Plate	False
+7	1	Spaghetti with Chicken Sauce	800	True	8976	24	 per Plate	False
+8	1	Spaghetti with Snail Sauce	700	True	4175	22	 per Plate	False

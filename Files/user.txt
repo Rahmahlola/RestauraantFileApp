@@ -1,0 +1,4 @@
+1	rahmah	rahmah	ib	rahmah	7000	rahmah	Admin	False
+2	ade	ade@email.com	oyo	1111	1800	09076554323	Customer	False
+3	Mr ahmed	ahmed@gmail.com	ib	2222	0	0909877654	Rider	False
+4	ola	ola	ola	ola	150	ola	Customer	False
